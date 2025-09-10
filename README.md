@@ -1,8 +1,11 @@
->【三方开发，代建库】SunPanel书签转换工具，由小魏摸鱼时编写
+>【三方开发，代建库】SunPanel书签转换工具，由小魏编写
 
 
 # SunPanel 书签转换工具
 一个专为 SunPanel 导航面板设计的书签转换辅助工具，支持本地运行，所有数据处理均在本地完成，有效保障用户隐私安全。
+
+<img width="2264" height="1228" alt="image" src="https://github.com/user-attachments/assets/ed0f9df3-95d4-481e-8672-517397d97483" />
+
 
 ## 工具介绍
 该工具是 SunPanel 导航面板的配套辅助工具，主要功能是实现书签格式的双向转换：
